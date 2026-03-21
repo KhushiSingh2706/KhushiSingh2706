@@ -29,10 +29,6 @@
 - 🌐 Backend API Development  
 - 🚀 Learning Scalable Web Applications  
 
----
-
-
----
 
 
 <!--
