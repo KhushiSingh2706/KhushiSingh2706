@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Connect with me:
-- 💼 LinkedIn: https://www.linkedin.com/in/khushi-singh- 79635a322
+- 💼 LinkedIn: [https://www.linkedin.com/in/khushi-singh- 79635a322](https://www.linkedin.com/in/khushi-singh-79635a322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: k4khushi1234@gmail.com
 
 ---
