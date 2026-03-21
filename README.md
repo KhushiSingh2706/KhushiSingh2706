@@ -31,22 +31,10 @@
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-[![Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-green?style=for-the-badge)](https://khushisingh2706.github.io/khushi2706.github.io/)
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Khushi%20Singh&fontSize=40&fontColor=ffffff)
 <!--
 **KhushiSingh2706/KhushiSingh2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
