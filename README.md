@@ -16,13 +16,13 @@
 
 ## 💡 About Me
 - 🎓 BCA Student
-- 💻 Interested in Backend Development & AI
-- 🚀 Learning Symfony, PHP, PostgreSQL
+- 💻 Interested in Full Stack Development & AI
+- 🚀 Learning Java, Pyhton, HTML, CSS, Symfony, PHP, PostgreSQL
 
 ---
 
 ## ❤️ Things I Love
-- 🧩 Symfony & PHP Development  
+- 🧩  Java , Pyhton  
 - 🗄️ PostgreSQL & Database Design  
 - 📋 Building Forms & Admin Dashboards  
 - 🔐 Authentication & User Systems  
